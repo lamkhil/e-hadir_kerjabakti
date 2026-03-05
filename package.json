@@ -1,0 +1,22 @@
+{
+  "name": "kerjabakti",
+  "version": "1.0.0",
+  "description": "hadir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamkhil/e-hadir_kerjabakti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamkhil/e-hadir_kerjabakti/issues"
+  },
+  "homepage": "https://github.com/lamkhil/e-hadir_kerjabakti#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.2.1"
+  }
+}
